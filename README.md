@@ -1,4 +1,4 @@
-# CentOS小书
+# Web开发者手边的一本CentOS小书
 这本 CentOS 小书是对 CentOS 系统知识的一个整理以及补完，当然对于其它 Linux 发行版本也有很大的参考意义，但的确针对的是目前 CentOS 的最新版本——**CentOS 7**
 
 ## 注意
