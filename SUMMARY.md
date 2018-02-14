@@ -10,3 +10,6 @@
 * [第七章：shell相关](content/shell.md)
 * [第八章：神奇的xargs命令](content/xargs.md)
 * [第九章：CentOS的历史命令](content/history.md)
+* [第十章：监控CentOS的系统状态](content/monitor.md)
+* [第十一章：SSH远程登录](content/ssh.md)
+* [第十二章：备份工具rsync](content/rsync.md)
