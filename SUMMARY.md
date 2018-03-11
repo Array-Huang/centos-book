@@ -13,3 +13,4 @@
 * [第十章：监控CentOS的系统状态](content/monitor.md)
 * [第十一章：SSH远程登录](content/ssh.md)
 * [第十二章：备份工具rsync](content/rsync.md)
+* [第十三章：Linux系统日志](content/system-log.md)
